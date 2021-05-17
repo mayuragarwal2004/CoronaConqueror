@@ -1,0 +1,3 @@
+Coffee sniff test
+
+prepare a coffee cup, a normal coffee, try to take a sniff. Do you get coffee smell? 
